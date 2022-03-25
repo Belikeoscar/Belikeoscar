@@ -10,10 +10,11 @@ Hi there,
 
 I am Oscar, A mobile developer, UI/UX designer and content writer. I am technologically driven and make it a mission to provide innovative pixel perfect works and designs. Want to know more about me, click on any of the available links
 
-# Latest Blog Posts
+# Team's Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Choosing A Career Path In Tech](https://crasonn.hashnode.dev/choosing-a-career-path-in-tech)
+- [Choosing A Career Path In Tech](https://crasonn.hashnode.dev/choosing-a-career-path-in-tech)  <br/>
+ 
 - [A Little Bit About me](https://crasonn.hashnode.dev/a-little-bit-about-me)
 <!-- BLOG-POST-LIST:END --> 
 <br>
