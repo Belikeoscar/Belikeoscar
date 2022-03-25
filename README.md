@@ -13,8 +13,7 @@ I am Oscar, A mobile developer, UI/UX designer and content writer. I am technolo
 # Team's Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Choosing A Career Path In Tech](https://crasonn.hashnode.dev/choosing-a-career-path-in-tech)  <br/>
--
+- [Choosing A Career Path In Tech](https://crasonn.hashnode.dev/choosing-a-career-path-in-tech)
 - [A Little Bit About me](https://crasonn.hashnode.dev/a-little-bit-about-me)
 <!-- BLOG-POST-LIST:END --> 
 <br>
