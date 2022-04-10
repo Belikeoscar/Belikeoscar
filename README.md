@@ -8,7 +8,7 @@
 
 Hi there,
 
-I am Oscar, A mobile developer, UI/UX designer and content writer. I am technologically driven and make it a mission to provide innovative pixel perfect works and designs. Want to know more about me, click on any of the available links
+I am Oscar, A mobile developer, UI/UX designer and content writer. I am technologically driven and I make it a mission to provide innovative pixel perfect works and designs. Want to know more about me, click on any of the available links
 
 # Team's Latest Blog Posts
 <br>
