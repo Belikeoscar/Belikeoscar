@@ -13,6 +13,7 @@ I am Oscar, A mobile developer, UI/UX designer and content writer. I am technolo
 # Team's Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Css Positioning](https://crasonn.hashnode.dev/understanding-css-positioning)
 - [What  is programming?](https://crasonn.hashnode.dev/what-is-programming)
 - [Common Errors Beginners Make While Learning Javascript](https://crasonn.hashnode.dev/common-errors-beginners-make-while-learning-javascript)
 - [Choosing A Career Path In Tech](https://crasonn.hashnode.dev/choosing-a-career-path-in-tech)
