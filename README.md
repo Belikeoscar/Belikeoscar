@@ -33,6 +33,7 @@ I am Oscar. A mobile developer, UI/UX designer and content writer. I am technolo
  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Miro&color=050038&logo=Miro&logoColor=FFFFFF&label="/>
 <img src ="https://img.shields.io/badge/android-%2307405e.svg?&style=for-the-badge&logo=android&logoColor=white"/>
 <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label"/>
+ <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label"/>
 
 
 </p>
