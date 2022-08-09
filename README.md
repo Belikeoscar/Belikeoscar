@@ -6,7 +6,7 @@
 
 ![Oscar's Github Banner](./assets/frame.png)
 
-Hi there,
+:wave: Hi there,
 
 I am Oscar. A mobile developer, UI/UX designer and content writer. I am technologically driven and I make it my mission to provide innovative pixel perfect works and designs. If you Want to know more about me, click on any of the available links above.
 
