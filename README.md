@@ -20,9 +20,10 @@ I am Oscar. A mobile developer, UI/UX designer and content writer. I am technolo
 - [What  is programming?](https://crasonn.hashnode.dev/what-is-programming)
 <!-- BLOG-POST-LIST:END --> 
 <br>
+<br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scarnation&langs_count=8&layout=compact&hide_border=true" alt="oscar's GitHub stats" />
-
+<br>
 # 💼 Skills
 <p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
