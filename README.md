@@ -21,7 +21,7 @@ I am Oscar. A mobile developer, UI/UX designer and content writer. I am technolo
 <!-- BLOG-POST-LIST:END --> 
 <br>
 <br>
-
+:--:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scarnation&langs_count=8&layout=compact&hide_border=true" alt="oscar's GitHub stats" />
 <br>
 # 💼 Skills
