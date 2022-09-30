@@ -49,5 +49,5 @@ I am Oscar. A mobile developer, UI/UX designer and content writer. I am technolo
 <!--<img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />--> 
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gradle&color=02303A&logo=Gradle&logoColor=FFFFFF&label="/>  
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hashnode&color=2962FF&logo=Hashnode&logoColor=FFFFFF&label="/> 
-...something cooking in the cloud
+...something cooking up in the cloud
 </details>
