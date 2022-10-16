@@ -13,11 +13,13 @@ I am Oscar. A mobile developer, UI/UX designer and content writer. I am technolo
 # Team's Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Enums in Java](https://crasonn.hashnode.dev/enums-in-java)
-- [Functions in JavaScript](https://crasonn.hashnode.dev/functions-in-javascript)
-- [Getting started with User Interface&lpar;UI&rpar;/User Experience&lpar;UX&rpar;  Design](https://crasonn.hashnode.dev/getting-started-with-user-interface-design-and-experience-design)
-- [Css Units](https://crasonn.hashnode.dev/css-units)
-- [Becoming A Better Programmer](https://crasonn.hashnode.dev/becoming-a-better-programmer)
+
+- [Enums in Java](https://crasonn.hashnode.dev/enums-in-java)      
+
+- [Functions in JavaScript](https://crasonn.hashnode.dev/functions-in-javascript)   
+- [Getting started with User Interface&lpar;UI&rpar;/User Experience&lpar;UX&rpar;  Design](https://crasonn.hashnode.dev/getting-started-with-user-interface-design-and-experience-design)   
+- [Css Units](https://crasonn.hashnode.dev/css-units)   
+- [Becoming A Better Programmer](https://crasonn.hashnode.dev/becoming-a-better-programmer)   
 <!-- BLOG-POST-LIST:END --> 
 <br>
 <br>
