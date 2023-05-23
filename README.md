@@ -8,7 +8,7 @@
 
 :wave: Hi there,
 
-I am Oscar. A Cloud Engineer, Product designer and content writer. I am technologically driven and I make it my mission to provide innovative pixel perfect works and designs. If you Want to know more about me, click on any of the available links above.
+I am Oscar. A Cloud Engineer, Product designer and content writer. I am technologically driven and I make it my mission to provide innovative pixel perfect works and designs. If you Want to know more about me, click on any of the available links above. btw I love food 
 
 # Team's Latest Blog Posts
 <br>
