@@ -22,7 +22,7 @@ I am Oscar. A Cloud Engineer, Product designer and Growth Strategist I am techno
 <br>
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scarnation&langs_count=8&layout=compact&hide_border=true" alt="oscar's GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belikeoscar&langs_count=8&layout=compact&hide_border=true" alt="oscar's GitHub stats" />
 <br>
 # 💼 Skills
 <p>
